@@ -6,7 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p></p>
 <p align="justify">
-Welcome to my GitHub page.
+<h1 align="center">Hi 👋 , Welcome to my GitHub page.</h1>
+
   I am Reza Hashemi and I am a backend developer and now I am a computer engineering student, I am learning new things about programming.
 </p>
 
@@ -59,7 +60,10 @@ Welcome to my GitHub page.
 
 
 
-
+<a href="https://github.com/Reza01010">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Reza01010&show_icons=true&theme=algolia&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reza01010&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+</a>
 
 
 
