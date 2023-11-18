@@ -85,23 +85,10 @@
 
 
 
-
-
-- How programmers feel when code doesn't works
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
-<br><br>
-
-
-
-
-
-
-
-
-
 - 3d Cool Statistics
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <br><br>
+
 
 
 
@@ -119,9 +106,12 @@
 
 
 
-- Tension walk
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300">
+- How programmers feel when code doesn't works
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
 <br><br>
+
+
+
 
 
 
@@ -240,190 +230,6 @@ Welcome to my GitHub page.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Developer Tech
-
-### Frameworks 
-
-<p align="left">
-
-   <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  
-
-</p>
-
-### Languages 
-
-<p align="left">
-  
-
-  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  
-
-</p>
-
-### Misc
-<p align="left">
-
-   <a href="#">
-    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-</p>
-
-### Services 
-<p align="left">
-  
-
-  <a href="#">
-    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-
-  
-</p>
-
-
-### Tools  
-<p align="left">
-  
-
-  <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  
-
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
- 
-
-
-</p>
-
---- 
-
-## Devices / Manufacturers
-<p align="left">
-
-  
-
-  <a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  
-
-</p>
-
-
----
-
-
-## Social & Professional 
-<p align="left">
-  <a href="#">
-    <img src="svg/social/angellist.svg" alt="angellist" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/social/foursquare.svg" alt="foursquare" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <!-- <a href="#">
-    <img src="svg/social/gitter.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
-  </a>   -->
-
-  <a href="#">
-    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <!-- <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>   -->
-
-  <a href="#">
-    <img src="svg/social/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <!-- <a href="#">
-    <img src="svg/social/speakerdeck.svg" alt="speakerdeck" style="vertical-align:top; margin:6px 4px">
-  </a>   -->
-
-   <a href="#"> 
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>    
-      <a href="#">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    
-     <a href="#">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>   
-    <a href="#">
-    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-</p>
-
---- 
 
 
 
