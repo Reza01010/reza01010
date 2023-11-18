@@ -62,7 +62,8 @@
 
 <a href="https://github.com/Reza01010">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Reza01010&show_icons=true&theme=algolia&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reza01010&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reza01010&layout=compact&langs_count=8&theme=algolia&hide=html,css,javascript" />
 </a>
 
 
